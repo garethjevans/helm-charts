@@ -9,9 +9,9 @@ entries:
           url: https://www.jenkins.io/
     apiVersion: v2
     appVersion: 2.263.1
-    created: "2020-12-21T20:29:09.620131241Z"
+    created: "2021-01-15T14:48:24.934510563Z"
     description: Jenkins - Build great things at any scale! The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
-    digest: 313c6975f2e2bb60e22dc738c0f695fa965c884871ff49aa4a2379dade8ec8dc
+    digest: 693f60093b869469b3c6b32ccb948448b30b2ef0f33b506187d2e7fb304cd548
     home: https://jenkins.io/
     icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
     maintainers:
@@ -32,6 +32,6 @@ entries:
     - https://github.com/maorfr/kube-tasks
     - https://github.com/jenkinsci/configuration-as-code-plugin
     urls:
-    - https://github.com/garethjevans/helm-charts/releases/download/jenkins-3.0.11/jenkins-3.0.11.tgz
-    version: 3.0.11
-generated: "2020-12-21T20:29:09.506614253Z"
+    - https://github.com/garethjevans/helm-charts/releases/download/jenkins-3.1.0/jenkins-3.1.0.tgz
+    version: 3.1.0
+generated: "2021-01-15T14:48:24.67303641Z"
